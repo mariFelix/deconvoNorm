@@ -18,6 +18,8 @@ A Deconvolution Protocol for ChIP-Seq Reveals Analogous Enhancer Structures on t
 
 https://www.ncbi.nlm.nih.gov/pubmed/29158335
 
+###### Table of Contents
+
   1. INTRODUCTION
   2. WARNINGS
   3. SOFTWARE DEPENDENCIES
