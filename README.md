@@ -10,9 +10,13 @@ marianne.sabourin-felix@hotmail.com
 marianne.sabourin-felix.1@ulaval.ca
 -----------------------------------
 
-Paper : A Deconvolution Protocol for ChIP-Seq Reveals Analogous Enhancer Structures on the Mouse and Human Ribosomal RNA Genes
+###### Paper
 
-PubMed : https://www.ncbi.nlm.nih.gov/pubmed/29158335
+A Deconvolution Protocol for ChIP-Seq Reveals Analogous Enhancer Structures on the Mouse and Human Ribosomal RNA Genes
+
+###### PubMed
+
+https://www.ncbi.nlm.nih.gov/pubmed/29158335
 
   1. INTRODUCTION
   2. WARNINGS
