@@ -4,9 +4,6 @@
 
 Marianne S. Felix
 
-marianne.sabourin-felix@hotmail.com
------------------------------------
-
 marianne.sabourin-felix.1@ulaval.ca
 -----------------------------------
 
