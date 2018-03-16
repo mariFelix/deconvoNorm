@@ -35,7 +35,7 @@ Deconvolution of sequencing data (ChIP-seq or DNase-seq) in ultra-deep sequencin
 
 ## WARNINGS
 
-This script was only tested on Ubuntu 14.04 LTS and Ubuntu 16.04 LTS with Python 2.7.10 and 2.7.11.
+This script was only tested on Ubuntu 14.04 LTS, Ubuntu 16.04 LTS and macOS 10.13.3 with Python 2.7.10 and 2.7.11.
 You can redistribute and/or modify it under the terms of the GNU General Public License v3 as published by the Free Software Foundation. This software is provided "as is" without warranty of any kind, either express or implied, regarding the software, its merchantability, or its fitness for any particular purpose. See the GNU General Public License for more details.
 
 ## SOFTWARE DEPENDENCIES
