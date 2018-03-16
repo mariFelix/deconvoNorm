@@ -40,6 +40,7 @@ You can redistribute and/or modify it under the terms of the GNU General Public 
 
 ## SOFTWARE DEPENDENCIES
 
+* Python
 * Samtools
 * Bedtools
 
